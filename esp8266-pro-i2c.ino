@@ -1,6 +1,12 @@
 #include <ESP8266WiFi.h>
 #include <SSD1306AsciiWire.h>
 
+// to program:
+// 10Kohm between EN and 5V
+// 10Kohm between IO15 and gnd
+// ground IO0 and reset
+// http://stackoverflow.com/q/41819985/7482007
+
 #include "myssid.h"
 #include "esp8266-pro-pins.h"
 
