@@ -16,7 +16,7 @@
 #define GPIO9 9
 #define GPIO10 10
 #define GPIO11 11
-#define GPIO13 12
+#define GPIO12 12
 #define GPIO13 13
 #define GPIO14 14
 #define GPIO15 15
